@@ -1,4 +1,6 @@
-# EEL4773_Team_Final_Project
+# EEL4773_Team_Final_Project (Speech Emotion Recognication)
+
+- Uses a ensembled CNN and KNN classifier to classify two statements into eight emotions
 
 ## Required Dependencies
 - numpy
