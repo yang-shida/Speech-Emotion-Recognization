@@ -1,6 +1,8 @@
 # EEL4773_Team_Final_Project (Speech Emotion Recognication)
 
 - Uses a ensembled CNN and KNN classifier to classify two statements into eight emotions
+- The test accuracy score was 88.75% from our test set and 85.31% from my professor's test set
+- The detailed implementation and experiments are explained in the [report](https://github.com/shida-yang/Speech-Emotion-Recognization/blob/main/Final%20Report.pdf)
 
 ## Required Dependencies
 - numpy
